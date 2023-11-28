@@ -1,0 +1,26 @@
+C:\Users\simon\Desktop\IAMP_GestionProduit\DLL_Marchand\bin\Debug\DLL_Marchand.dll
+C:\Users\simon\Desktop\IAMP_GestionProduit\DLL_Marchand\bin\Debug\DLL_Marchand.pdb
+C:\Users\simon\Desktop\IAMP_GestionProduit\DLL_Marchand\bin\Debug\DLL_Marchand.xml
+C:\Users\simon\Desktop\IAMP_GestionProduit\DLL_Marchand\obj\Debug\DLL_Marchand.vbproj.AssemblyReference.cache
+C:\Users\simon\Desktop\IAMP_GestionProduit\DLL_Marchand\obj\Debug\DLL_Marchand.Resources.resources
+C:\Users\simon\Desktop\IAMP_GestionProduit\DLL_Marchand\obj\Debug\DLL_Marchand.vbproj.GenerateResource.cache
+C:\Users\simon\Desktop\IAMP_GestionProduit\DLL_Marchand\obj\Debug\DLL_Marchand.vbproj.CoreCompileInputs.cache
+C:\Users\simon\Desktop\IAMP_GestionProduit\DLL_Marchand\obj\Debug\DLL_Marchand.dll
+C:\Users\simon\Desktop\IAMP_GestionProduit\DLL_Marchand\obj\Debug\DLL_Marchand.xml
+C:\Users\simon\Desktop\IAMP_GestionProduit\DLL_Marchand\obj\Debug\DLL_Marchand.pdb
+C:\Users\simon\Desktop\IAMP_GestionProduit\DLL_Marchand\bin\Debug\itextsharp.dll
+C:\Users\simon\Desktop\IAMP_GestionProduit\DLL_Marchand\bin\Debug\MySql.Data.dll
+C:\Users\simon\Desktop\IAMP_GestionProduit\DLL_Marchand\obj\Debug\DLL_Marchand.vbproj.CopyComplete
+D:\Perso\Cours BTS\Cours\Développement\Albert\IAMP_GestionProduit\DLL_Marchand\bin\Debug\DLL_Marchand.dll
+D:\Perso\Cours BTS\Cours\Développement\Albert\IAMP_GestionProduit\DLL_Marchand\bin\Debug\DLL_Marchand.pdb
+D:\Perso\Cours BTS\Cours\Développement\Albert\IAMP_GestionProduit\DLL_Marchand\bin\Debug\DLL_Marchand.xml
+D:\Perso\Cours BTS\Cours\Développement\Albert\IAMP_GestionProduit\DLL_Marchand\bin\Debug\itextsharp.dll
+D:\Perso\Cours BTS\Cours\Développement\Albert\IAMP_GestionProduit\DLL_Marchand\bin\Debug\MySql.Data.dll
+D:\Perso\Cours BTS\Cours\Développement\Albert\IAMP_GestionProduit\DLL_Marchand\obj\Debug\DLL_Marchand.vbproj.AssemblyReference.cache
+D:\Perso\Cours BTS\Cours\Développement\Albert\IAMP_GestionProduit\DLL_Marchand\obj\Debug\DLL_Marchand.Resources.resources
+D:\Perso\Cours BTS\Cours\Développement\Albert\IAMP_GestionProduit\DLL_Marchand\obj\Debug\DLL_Marchand.vbproj.GenerateResource.cache
+D:\Perso\Cours BTS\Cours\Développement\Albert\IAMP_GestionProduit\DLL_Marchand\obj\Debug\DLL_Marchand.vbproj.CoreCompileInputs.cache
+D:\Perso\Cours BTS\Cours\Développement\Albert\IAMP_GestionProduit\DLL_Marchand\obj\Debug\DLL_Marchand.vbproj.CopyComplete
+D:\Perso\Cours BTS\Cours\Développement\Albert\IAMP_GestionProduit\DLL_Marchand\obj\Debug\DLL_Marchand.dll
+D:\Perso\Cours BTS\Cours\Développement\Albert\IAMP_GestionProduit\DLL_Marchand\obj\Debug\DLL_Marchand.xml
+D:\Perso\Cours BTS\Cours\Développement\Albert\IAMP_GestionProduit\DLL_Marchand\obj\Debug\DLL_Marchand.pdb

@@ -1,0 +1,166 @@
+C:\Users\simon\Desktop\IAMP_GestionProduit\IAMP_GestionProduit\IAMP_GestionProduit\bin\Debug\IAMP_GestionProduit.exe.config
+C:\Users\simon\Desktop\IAMP_GestionProduit\IAMP_GestionProduit\IAMP_GestionProduit\bin\Debug\IAMP_GestionProduit.exe
+C:\Users\simon\Desktop\IAMP_GestionProduit\IAMP_GestionProduit\IAMP_GestionProduit\bin\Debug\IAMP_GestionProduit.pdb
+C:\Users\simon\Desktop\IAMP_GestionProduit\IAMP_GestionProduit\IAMP_GestionProduit\bin\Debug\IAMP_GestionProduit.xml
+C:\Users\simon\Desktop\IAMP_GestionProduit\IAMP_GestionProduit\IAMP_GestionProduit\obj\Debug\IAMP_GestionProduit.vbproj.AssemblyReference.cache
+C:\Users\simon\Desktop\IAMP_GestionProduit\IAMP_GestionProduit\IAMP_GestionProduit\obj\Debug\IAMP_GestionProduit.vbproj.SuggestedBindingRedirects.cache
+C:\Users\simon\Desktop\IAMP_GestionProduit\IAMP_GestionProduit\IAMP_GestionProduit\obj\Debug\IAMP_GestionProduit.Resources.resources
+C:\Users\simon\Desktop\IAMP_GestionProduit\IAMP_GestionProduit\IAMP_GestionProduit\obj\Debug\IAMP_GestionProduit.vbproj.GenerateResource.cache
+C:\Users\simon\Desktop\IAMP_GestionProduit\IAMP_GestionProduit\IAMP_GestionProduit\obj\Debug\IAMP_GestionProduit.vbproj.CoreCompileInputs.cache
+C:\Users\simon\Desktop\IAMP_GestionProduit\IAMP_GestionProduit\IAMP_GestionProduit\obj\Debug\IAMP_GestionProduit.exe
+C:\Users\simon\Desktop\IAMP_GestionProduit\IAMP_GestionProduit\IAMP_GestionProduit\obj\Debug\IAMP_GestionProduit.xml
+C:\Users\simon\Desktop\IAMP_GestionProduit\IAMP_GestionProduit\IAMP_GestionProduit\obj\Debug\IAMP_GestionProduit.pdb
+C:\Users\simon\Desktop\IAMP_GestionProduit\IAMP_GestionProduit\IAMP_GestionProduit\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\simon\Desktop\IAMP_GestionProduit\IAMP_GestionProduit\IAMP_GestionProduit\obj\Debug\IAMP_GestionProduit.vbproj.CopyComplete
+C:\Users\simon\Desktop\IAMP_GestionProduit\IAMP_GestionProduit\IAMP_GestionProduit\obj\Debug\IAMP_GestionProduit.FrmAccueil.resources
+C:\Users\simon\Desktop\IAMP_GestionProduit\IAMP_GestionProduit\IAMP_GestionProduit\obj\Debug\IAMP_GestionProduit.FrmASMClient.resources
+C:\Users\simon\Desktop\IAMP_GestionProduit\IAMP_GestionProduit\IAMP_GestionProduit\bin\Debug\JTextBox.dll
+C:\Users\simon\Desktop\IAMP_GestionProduit\IAMP_GestionProduit\IAMP_GestionProduit\obj\Debug\IAMP_GestionProduit.FrmASMProduit.resources
+C:\Users\simon\Desktop\IAMP_GestionProduit\IAMP_GestionProduit\IAMP_GestionProduit\obj\Debug\IAMP_GestionProduit.FrmAMSCommande.resources
+C:\Users\simon\Desktop\IAMP_GestionProduit\IAMP_GestionProduit\IAMP_GestionProduit\obj\Debug\IAMP_GestionProduit.FrmCommandeBis.resources
+C:\Users\simon\Desktop\IAMP_GestionProduit\IAMP_GestionProduit\IAMP_GestionProduit\bin\Debug\MySql.Data.dll
+C:\Users\simon\Desktop\IAMP_GestionProduit\IAMP_GestionProduit\IAMP_GestionProduit\bin\Debug\itextsharp.dll
+C:\Users\simon\Desktop\IAMP_GestionProduit\IAMP_GestionProduit\IAMP_GestionProduit\obj\Debug\IAMP_GestionProduit.FrmLoading.resources
+C:\Users\simon\Desktop\IAMP_GestionProduit\IAMP_GestionProduit\IAMP_GestionProduit\obj\Debug\IAMP_GestionProduit.FrmBDD.resources
+C:\Users\simon\Desktop\Projet\Projet Gestion Produit\IAMP_GestionProduit\IAMP_GestionProduit\IAMP_GestionProduit\bin\Debug\IAMP_GestionProduit.exe.config
+C:\Users\simon\Desktop\Projet\Projet Gestion Produit\IAMP_GestionProduit\IAMP_GestionProduit\IAMP_GestionProduit\bin\Debug\IAMP_GestionProduit.exe
+C:\Users\simon\Desktop\Projet\Projet Gestion Produit\IAMP_GestionProduit\IAMP_GestionProduit\IAMP_GestionProduit\bin\Debug\IAMP_GestionProduit.pdb
+C:\Users\simon\Desktop\Projet\Projet Gestion Produit\IAMP_GestionProduit\IAMP_GestionProduit\IAMP_GestionProduit\bin\Debug\IAMP_GestionProduit.xml
+C:\Users\simon\Desktop\Projet\Projet Gestion Produit\IAMP_GestionProduit\IAMP_GestionProduit\IAMP_GestionProduit\bin\Debug\itextsharp.dll
+C:\Users\simon\Desktop\Projet\Projet Gestion Produit\IAMP_GestionProduit\IAMP_GestionProduit\IAMP_GestionProduit\bin\Debug\MySql.Data.dll
+C:\Users\simon\Desktop\Projet\Projet Gestion Produit\IAMP_GestionProduit\IAMP_GestionProduit\IAMP_GestionProduit\obj\Debug\IAMP_GestionProduit.vbproj.AssemblyReference.cache
+C:\Users\simon\Desktop\Projet\Projet Gestion Produit\IAMP_GestionProduit\IAMP_GestionProduit\IAMP_GestionProduit\obj\Debug\IAMP_GestionProduit.vbproj.SuggestedBindingRedirects.cache
+C:\Users\simon\Desktop\Projet\Projet Gestion Produit\IAMP_GestionProduit\IAMP_GestionProduit\IAMP_GestionProduit\obj\Debug\IAMP_GestionProduit.FrmAccueil.resources
+C:\Users\simon\Desktop\Projet\Projet Gestion Produit\IAMP_GestionProduit\IAMP_GestionProduit\IAMP_GestionProduit\obj\Debug\IAMP_GestionProduit.FrmAMSCommande.resources
+C:\Users\simon\Desktop\Projet\Projet Gestion Produit\IAMP_GestionProduit\IAMP_GestionProduit\IAMP_GestionProduit\obj\Debug\IAMP_GestionProduit.FrmASMClient.resources
+C:\Users\simon\Desktop\Projet\Projet Gestion Produit\IAMP_GestionProduit\IAMP_GestionProduit\IAMP_GestionProduit\obj\Debug\IAMP_GestionProduit.FrmASMProduit.resources
+C:\Users\simon\Desktop\Projet\Projet Gestion Produit\IAMP_GestionProduit\IAMP_GestionProduit\IAMP_GestionProduit\obj\Debug\IAMP_GestionProduit.FrmBDD.resources
+C:\Users\simon\Desktop\Projet\Projet Gestion Produit\IAMP_GestionProduit\IAMP_GestionProduit\IAMP_GestionProduit\obj\Debug\IAMP_GestionProduit.FrmCommandeBis.resources
+C:\Users\simon\Desktop\Projet\Projet Gestion Produit\IAMP_GestionProduit\IAMP_GestionProduit\IAMP_GestionProduit\obj\Debug\IAMP_GestionProduit.FrmLoading.resources
+C:\Users\simon\Desktop\Projet\Projet Gestion Produit\IAMP_GestionProduit\IAMP_GestionProduit\IAMP_GestionProduit\obj\Debug\IAMP_GestionProduit.Resources.resources
+C:\Users\simon\Desktop\Projet\Projet Gestion Produit\IAMP_GestionProduit\IAMP_GestionProduit\IAMP_GestionProduit\obj\Debug\IAMP_GestionProduit.vbproj.GenerateResource.cache
+C:\Users\simon\Desktop\Projet\Projet Gestion Produit\IAMP_GestionProduit\IAMP_GestionProduit\IAMP_GestionProduit\obj\Debug\IAMP_GestionProduit.vbproj.CoreCompileInputs.cache
+C:\Users\simon\Desktop\Projet\Projet Gestion Produit\IAMP_GestionProduit\IAMP_GestionProduit\IAMP_GestionProduit\obj\Debug\IAMP_GestionProduit.vbproj.CopyComplete
+C:\Users\simon\Desktop\Projet\Projet Gestion Produit\IAMP_GestionProduit\IAMP_GestionProduit\IAMP_GestionProduit\obj\Debug\IAMP_GestionProduit.exe
+C:\Users\simon\Desktop\Projet\Projet Gestion Produit\IAMP_GestionProduit\IAMP_GestionProduit\IAMP_GestionProduit\obj\Debug\IAMP_GestionProduit.xml
+C:\Users\simon\Desktop\Projet\Projet Gestion Produit\IAMP_GestionProduit\IAMP_GestionProduit\IAMP_GestionProduit\obj\Debug\IAMP_GestionProduit.pdb
+C:\Users\simon\Desktop\Projet\Projet Gestion Produit\IAMP_GestionProduit\IAMP_GestionProduit\IAMP_GestionProduit\obj\Debug\IAMP_GestionProduit.FrmAddCommande.resources
+C:\Users\simon\Desktop\Projet\Projet Gestion Produit\IAMP_GestionProduit\IAMP_GestionProduit\IAMP_GestionProduit\obj\Debug\IAMP_GestionProduit.FrmMail.resources
+C:\Users\simon\Desktop\Projet\Projet Gestion Produit\IAMP_GestionProduit\IAMP_GestionProduit\IAMP_GestionProduit\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\simon\Desktop\Projet\Projet Gestion Produit\IAMP_GestionProduit\IAMP_GestionProduit\IAMP_GestionProduit\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\simon\Desktop\Projet\Projet Gestion Produit\IAMP_GestionProduit\IAMP_GestionProduit\IAMP_GestionProduit\obj\Debug\IAMP_GestionProduit.vbproj.ResolveComReference.cache
+C:\Users\simon\Desktop\Projet\Projet Gestion Produit\IAMP_GestionProduit\IAMP_GestionProduit\IAMP_GestionProduit\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\simon\Desktop\Projet\Projet Gestion Produit\IAMP_GestionProduit\IAMP_GestionProduit\IAMP_GestionProduit\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\Projet\Projet Gestion Produit\IAMP_GestionProduit\IAMP_GestionProduit\IAMP_GestionProduit\obj\Debug\IAMP_GestionProduit.vbproj.AssemblyReference.cache
+D:\Projet\Projet Gestion Produit\IAMP_GestionProduit\IAMP_GestionProduit\IAMP_GestionProduit\obj\Debug\IAMP_GestionProduit.vbproj.SuggestedBindingRedirects.cache
+D:\Projet\Projet Gestion Produit\IAMP_GestionProduit\IAMP_GestionProduit\IAMP_GestionProduit\obj\Debug\IAMP_GestionProduit.vbproj.ResolveComReference.cache
+D:\Projet\Projet Gestion Produit\IAMP_GestionProduit\IAMP_GestionProduit\IAMP_GestionProduit\obj\Debug\IAMP_GestionProduit.FrmAccueil.resources
+D:\Projet\Projet Gestion Produit\IAMP_GestionProduit\IAMP_GestionProduit\IAMP_GestionProduit\obj\Debug\IAMP_GestionProduit.FrmAddCommande.resources
+D:\Projet\Projet Gestion Produit\IAMP_GestionProduit\IAMP_GestionProduit\IAMP_GestionProduit\obj\Debug\IAMP_GestionProduit.FrmAMSCommande.resources
+D:\Projet\Projet Gestion Produit\IAMP_GestionProduit\IAMP_GestionProduit\IAMP_GestionProduit\obj\Debug\IAMP_GestionProduit.FrmASMClient.resources
+D:\Projet\Projet Gestion Produit\IAMP_GestionProduit\IAMP_GestionProduit\IAMP_GestionProduit\obj\Debug\IAMP_GestionProduit.FrmASMProduit.resources
+D:\Projet\Projet Gestion Produit\IAMP_GestionProduit\IAMP_GestionProduit\IAMP_GestionProduit\obj\Debug\IAMP_GestionProduit.FrmBDD.resources
+D:\Projet\Projet Gestion Produit\IAMP_GestionProduit\IAMP_GestionProduit\IAMP_GestionProduit\obj\Debug\IAMP_GestionProduit.FrmCommandeBis.resources
+D:\Projet\Projet Gestion Produit\IAMP_GestionProduit\IAMP_GestionProduit\IAMP_GestionProduit\obj\Debug\IAMP_GestionProduit.FrmLoading.resources
+D:\Projet\Projet Gestion Produit\IAMP_GestionProduit\IAMP_GestionProduit\IAMP_GestionProduit\obj\Debug\IAMP_GestionProduit.FrmMail.resources
+D:\Projet\Projet Gestion Produit\IAMP_GestionProduit\IAMP_GestionProduit\IAMP_GestionProduit\obj\Debug\IAMP_GestionProduit.Resources.resources
+D:\Projet\Projet Gestion Produit\IAMP_GestionProduit\IAMP_GestionProduit\IAMP_GestionProduit\obj\Debug\IAMP_GestionProduit.vbproj.GenerateResource.cache
+D:\Projet\Projet Gestion Produit\IAMP_GestionProduit\IAMP_GestionProduit\IAMP_GestionProduit\obj\Debug\IAMP_GestionProduit.vbproj.CoreCompileInputs.cache
+D:\Projet\Projet Gestion Produit\IAMP_GestionProduit\IAMP_GestionProduit\IAMP_GestionProduit\obj\Debug\IAMP_GestionProduit.exe
+D:\Projet\Projet Gestion Produit\IAMP_GestionProduit\IAMP_GestionProduit\IAMP_GestionProduit\obj\Debug\IAMP_GestionProduit.xml
+D:\Projet\Projet Gestion Produit\IAMP_GestionProduit\IAMP_GestionProduit\IAMP_GestionProduit\obj\Debug\IAMP_GestionProduit.pdb
+D:\Perso\Projet\Projet Gestion Produit\IAMP_GestionProduit\IAMP_GestionProduit\IAMP_GestionProduit\bin\Debug\IAMP_GestionProduit.exe.config
+D:\Perso\Projet\Projet Gestion Produit\IAMP_GestionProduit\IAMP_GestionProduit\IAMP_GestionProduit\bin\Debug\IAMP_GestionProduit.exe
+D:\Perso\Projet\Projet Gestion Produit\IAMP_GestionProduit\IAMP_GestionProduit\IAMP_GestionProduit\bin\Debug\IAMP_GestionProduit.pdb
+D:\Perso\Projet\Projet Gestion Produit\IAMP_GestionProduit\IAMP_GestionProduit\IAMP_GestionProduit\bin\Debug\IAMP_GestionProduit.xml
+D:\Perso\Projet\Projet Gestion Produit\IAMP_GestionProduit\IAMP_GestionProduit\IAMP_GestionProduit\bin\Debug\itextsharp.dll
+D:\Perso\Projet\Projet Gestion Produit\IAMP_GestionProduit\IAMP_GestionProduit\IAMP_GestionProduit\bin\Debug\MySql.Data.dll
+D:\Perso\Projet\Projet Gestion Produit\IAMP_GestionProduit\IAMP_GestionProduit\IAMP_GestionProduit\bin\Debug\Interop.AcroPDFLib.dll
+D:\Perso\Projet\Projet Gestion Produit\IAMP_GestionProduit\IAMP_GestionProduit\IAMP_GestionProduit\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\Perso\Projet\Projet Gestion Produit\IAMP_GestionProduit\IAMP_GestionProduit\IAMP_GestionProduit\obj\Debug\IAMP_GestionProduit.vbproj.AssemblyReference.cache
+D:\Perso\Projet\Projet Gestion Produit\IAMP_GestionProduit\IAMP_GestionProduit\IAMP_GestionProduit\obj\Debug\IAMP_GestionProduit.vbproj.SuggestedBindingRedirects.cache
+D:\Perso\Projet\Projet Gestion Produit\IAMP_GestionProduit\IAMP_GestionProduit\IAMP_GestionProduit\obj\Debug\Interop.AcroPDFLib.dll
+D:\Perso\Projet\Projet Gestion Produit\IAMP_GestionProduit\IAMP_GestionProduit\IAMP_GestionProduit\obj\Debug\AxInterop.AcroPDFLib.dll
+D:\Perso\Projet\Projet Gestion Produit\IAMP_GestionProduit\IAMP_GestionProduit\IAMP_GestionProduit\obj\Debug\IAMP_GestionProduit.vbproj.ResolveComReference.cache
+D:\Perso\Projet\Projet Gestion Produit\IAMP_GestionProduit\IAMP_GestionProduit\IAMP_GestionProduit\obj\Debug\IAMP_GestionProduit.FrmAccueil.resources
+D:\Perso\Projet\Projet Gestion Produit\IAMP_GestionProduit\IAMP_GestionProduit\IAMP_GestionProduit\obj\Debug\IAMP_GestionProduit.FrmAddCommande.resources
+D:\Perso\Projet\Projet Gestion Produit\IAMP_GestionProduit\IAMP_GestionProduit\IAMP_GestionProduit\obj\Debug\IAMP_GestionProduit.FrmAMSCommande.resources
+D:\Perso\Projet\Projet Gestion Produit\IAMP_GestionProduit\IAMP_GestionProduit\IAMP_GestionProduit\obj\Debug\IAMP_GestionProduit.FrmASMClient.resources
+D:\Perso\Projet\Projet Gestion Produit\IAMP_GestionProduit\IAMP_GestionProduit\IAMP_GestionProduit\obj\Debug\IAMP_GestionProduit.FrmASMProduit.resources
+D:\Perso\Projet\Projet Gestion Produit\IAMP_GestionProduit\IAMP_GestionProduit\IAMP_GestionProduit\obj\Debug\IAMP_GestionProduit.FrmBDD.resources
+D:\Perso\Projet\Projet Gestion Produit\IAMP_GestionProduit\IAMP_GestionProduit\IAMP_GestionProduit\obj\Debug\IAMP_GestionProduit.FrmCommandeBis.resources
+D:\Perso\Projet\Projet Gestion Produit\IAMP_GestionProduit\IAMP_GestionProduit\IAMP_GestionProduit\obj\Debug\IAMP_GestionProduit.FrmLoading.resources
+D:\Perso\Projet\Projet Gestion Produit\IAMP_GestionProduit\IAMP_GestionProduit\IAMP_GestionProduit\obj\Debug\IAMP_GestionProduit.FrmMail.resources
+D:\Perso\Projet\Projet Gestion Produit\IAMP_GestionProduit\IAMP_GestionProduit\IAMP_GestionProduit\obj\Debug\IAMP_GestionProduit.Resources.resources
+D:\Perso\Projet\Projet Gestion Produit\IAMP_GestionProduit\IAMP_GestionProduit\IAMP_GestionProduit\obj\Debug\IAMP_GestionProduit.vbproj.GenerateResource.cache
+D:\Perso\Projet\Projet Gestion Produit\IAMP_GestionProduit\IAMP_GestionProduit\IAMP_GestionProduit\obj\Debug\IAMP_GestionProduit.vbproj.CoreCompileInputs.cache
+D:\Perso\Projet\Projet Gestion Produit\IAMP_GestionProduit\IAMP_GestionProduit\IAMP_GestionProduit\obj\Debug\IAMP_GestionProduit.vbproj.CopyComplete
+D:\Perso\Projet\Projet Gestion Produit\IAMP_GestionProduit\IAMP_GestionProduit\IAMP_GestionProduit\obj\Debug\IAMP_GestionProduit.exe
+D:\Perso\Projet\Projet Gestion Produit\IAMP_GestionProduit\IAMP_GestionProduit\IAMP_GestionProduit\obj\Debug\IAMP_GestionProduit.xml
+D:\Perso\Projet\Projet Gestion Produit\IAMP_GestionProduit\IAMP_GestionProduit\IAMP_GestionProduit\obj\Debug\IAMP_GestionProduit.pdb
+C:\Users\simon\Desktop\IAMP_GestionProduit\IAMP_GestionProduit\bin\Debug\IAMP_GestionProduit.exe.config
+C:\Users\simon\Desktop\IAMP_GestionProduit\IAMP_GestionProduit\bin\Debug\IAMP_GestionProduit.exe
+C:\Users\simon\Desktop\IAMP_GestionProduit\IAMP_GestionProduit\bin\Debug\IAMP_GestionProduit.pdb
+C:\Users\simon\Desktop\IAMP_GestionProduit\IAMP_GestionProduit\bin\Debug\IAMP_GestionProduit.xml
+C:\Users\simon\Desktop\IAMP_GestionProduit\IAMP_GestionProduit\bin\Debug\itextsharp.dll
+C:\Users\simon\Desktop\IAMP_GestionProduit\IAMP_GestionProduit\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\simon\Desktop\IAMP_GestionProduit\IAMP_GestionProduit\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\simon\Desktop\IAMP_GestionProduit\IAMP_GestionProduit\obj\Debug\IAMP_GestionProduit.vbproj.AssemblyReference.cache
+C:\Users\simon\Desktop\IAMP_GestionProduit\IAMP_GestionProduit\obj\Debug\IAMP_GestionProduit.vbproj.SuggestedBindingRedirects.cache
+C:\Users\simon\Desktop\IAMP_GestionProduit\IAMP_GestionProduit\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\simon\Desktop\IAMP_GestionProduit\IAMP_GestionProduit\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\simon\Desktop\IAMP_GestionProduit\IAMP_GestionProduit\obj\Debug\IAMP_GestionProduit.vbproj.ResolveComReference.cache
+C:\Users\simon\Desktop\IAMP_GestionProduit\IAMP_GestionProduit\obj\Debug\IAMP_GestionProduit.FrmAccueil.resources
+C:\Users\simon\Desktop\IAMP_GestionProduit\IAMP_GestionProduit\obj\Debug\IAMP_GestionProduit.FrmAddCommande.resources
+C:\Users\simon\Desktop\IAMP_GestionProduit\IAMP_GestionProduit\obj\Debug\IAMP_GestionProduit.FrmAMSCommande.resources
+C:\Users\simon\Desktop\IAMP_GestionProduit\IAMP_GestionProduit\obj\Debug\IAMP_GestionProduit.FrmASMClient.resources
+C:\Users\simon\Desktop\IAMP_GestionProduit\IAMP_GestionProduit\obj\Debug\IAMP_GestionProduit.FrmASMProduit.resources
+C:\Users\simon\Desktop\IAMP_GestionProduit\IAMP_GestionProduit\obj\Debug\IAMP_GestionProduit.FrmBDD.resources
+C:\Users\simon\Desktop\IAMP_GestionProduit\IAMP_GestionProduit\obj\Debug\IAMP_GestionProduit.FrmCommandeBis.resources
+C:\Users\simon\Desktop\IAMP_GestionProduit\IAMP_GestionProduit\obj\Debug\IAMP_GestionProduit.FrmLoading.resources
+C:\Users\simon\Desktop\IAMP_GestionProduit\IAMP_GestionProduit\obj\Debug\IAMP_GestionProduit.FrmMail.resources
+C:\Users\simon\Desktop\IAMP_GestionProduit\IAMP_GestionProduit\obj\Debug\IAMP_GestionProduit.Resources.resources
+C:\Users\simon\Desktop\IAMP_GestionProduit\IAMP_GestionProduit\obj\Debug\IAMP_GestionProduit.vbproj.GenerateResource.cache
+C:\Users\simon\Desktop\IAMP_GestionProduit\IAMP_GestionProduit\obj\Debug\IAMP_GestionProduit.vbproj.CoreCompileInputs.cache
+C:\Users\simon\Desktop\IAMP_GestionProduit\IAMP_GestionProduit\obj\Debug\IAMP_GestionProduit.vbproj.CopyComplete
+C:\Users\simon\Desktop\IAMP_GestionProduit\IAMP_GestionProduit\obj\Debug\IAMP_GestionProduit.exe
+C:\Users\simon\Desktop\IAMP_GestionProduit\IAMP_GestionProduit\obj\Debug\IAMP_GestionProduit.xml
+C:\Users\simon\Desktop\IAMP_GestionProduit\IAMP_GestionProduit\obj\Debug\IAMP_GestionProduit.pdb
+C:\Users\simon\Desktop\IAMP_GestionProduit\IAMP_GestionProduit\bin\Debug\DLL_Marchand.dll
+C:\Users\simon\Desktop\IAMP_GestionProduit\IAMP_GestionProduit\bin\Debug\DLL_Marchand.pdb
+C:\Users\simon\Desktop\IAMP_GestionProduit\IAMP_GestionProduit\bin\Debug\DLL_Marchand.xml
+C:\Users\simon\Desktop\IAMP_GestionProduit\IAMP_GestionProduit\obj\Debug\IAMP_GestionProduit.Frm_Temp_Silo.resources
+D:\Perso\Cours BTS\Cours\Développement\Albert\IAMP_GestionProduit\IAMP_GestionProduit\bin\Debug\IAMP_GestionProduit.exe.config
+D:\Perso\Cours BTS\Cours\Développement\Albert\IAMP_GestionProduit\IAMP_GestionProduit\bin\Debug\IAMP_GestionProduit.exe
+D:\Perso\Cours BTS\Cours\Développement\Albert\IAMP_GestionProduit\IAMP_GestionProduit\bin\Debug\IAMP_GestionProduit.pdb
+D:\Perso\Cours BTS\Cours\Développement\Albert\IAMP_GestionProduit\IAMP_GestionProduit\bin\Debug\IAMP_GestionProduit.xml
+D:\Perso\Cours BTS\Cours\Développement\Albert\IAMP_GestionProduit\IAMP_GestionProduit\bin\Debug\DLL_Marchand.dll
+D:\Perso\Cours BTS\Cours\Développement\Albert\IAMP_GestionProduit\IAMP_GestionProduit\bin\Debug\itextsharp.dll
+D:\Perso\Cours BTS\Cours\Développement\Albert\IAMP_GestionProduit\IAMP_GestionProduit\bin\Debug\MySql.Data.dll
+D:\Perso\Cours BTS\Cours\Développement\Albert\IAMP_GestionProduit\IAMP_GestionProduit\bin\Debug\DLL_Marchand.pdb
+D:\Perso\Cours BTS\Cours\Développement\Albert\IAMP_GestionProduit\IAMP_GestionProduit\bin\Debug\DLL_Marchand.xml
+D:\Perso\Cours BTS\Cours\Développement\Albert\IAMP_GestionProduit\IAMP_GestionProduit\bin\Debug\Interop.AcroPDFLib.dll
+D:\Perso\Cours BTS\Cours\Développement\Albert\IAMP_GestionProduit\IAMP_GestionProduit\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\Perso\Cours BTS\Cours\Développement\Albert\IAMP_GestionProduit\IAMP_GestionProduit\obj\Debug\IAMP_GestionProduit.vbproj.AssemblyReference.cache
+D:\Perso\Cours BTS\Cours\Développement\Albert\IAMP_GestionProduit\IAMP_GestionProduit\obj\Debug\IAMP_GestionProduit.vbproj.SuggestedBindingRedirects.cache
+D:\Perso\Cours BTS\Cours\Développement\Albert\IAMP_GestionProduit\IAMP_GestionProduit\obj\Debug\Interop.AcroPDFLib.dll
+D:\Perso\Cours BTS\Cours\Développement\Albert\IAMP_GestionProduit\IAMP_GestionProduit\obj\Debug\AxInterop.AcroPDFLib.dll
+D:\Perso\Cours BTS\Cours\Développement\Albert\IAMP_GestionProduit\IAMP_GestionProduit\obj\Debug\IAMP_GestionProduit.vbproj.ResolveComReference.cache
+D:\Perso\Cours BTS\Cours\Développement\Albert\IAMP_GestionProduit\IAMP_GestionProduit\obj\Debug\IAMP_GestionProduit.FrmAccueil.resources
+D:\Perso\Cours BTS\Cours\Développement\Albert\IAMP_GestionProduit\IAMP_GestionProduit\obj\Debug\IAMP_GestionProduit.FrmAddCommande.resources
+D:\Perso\Cours BTS\Cours\Développement\Albert\IAMP_GestionProduit\IAMP_GestionProduit\obj\Debug\IAMP_GestionProduit.FrmAMSCommande.resources
+D:\Perso\Cours BTS\Cours\Développement\Albert\IAMP_GestionProduit\IAMP_GestionProduit\obj\Debug\IAMP_GestionProduit.FrmASMClient.resources
+D:\Perso\Cours BTS\Cours\Développement\Albert\IAMP_GestionProduit\IAMP_GestionProduit\obj\Debug\IAMP_GestionProduit.FrmASMProduit.resources
+D:\Perso\Cours BTS\Cours\Développement\Albert\IAMP_GestionProduit\IAMP_GestionProduit\obj\Debug\IAMP_GestionProduit.FrmBDD.resources
+D:\Perso\Cours BTS\Cours\Développement\Albert\IAMP_GestionProduit\IAMP_GestionProduit\obj\Debug\IAMP_GestionProduit.FrmCommandeBis.resources
+D:\Perso\Cours BTS\Cours\Développement\Albert\IAMP_GestionProduit\IAMP_GestionProduit\obj\Debug\IAMP_GestionProduit.FrmLoading.resources
+D:\Perso\Cours BTS\Cours\Développement\Albert\IAMP_GestionProduit\IAMP_GestionProduit\obj\Debug\IAMP_GestionProduit.FrmMail.resources
+D:\Perso\Cours BTS\Cours\Développement\Albert\IAMP_GestionProduit\IAMP_GestionProduit\obj\Debug\IAMP_GestionProduit.Resources.resources
+D:\Perso\Cours BTS\Cours\Développement\Albert\IAMP_GestionProduit\IAMP_GestionProduit\obj\Debug\IAMP_GestionProduit.vbproj.GenerateResource.cache
+D:\Perso\Cours BTS\Cours\Développement\Albert\IAMP_GestionProduit\IAMP_GestionProduit\obj\Debug\IAMP_GestionProduit.vbproj.CoreCompileInputs.cache
+D:\Perso\Cours BTS\Cours\Développement\Albert\IAMP_GestionProduit\IAMP_GestionProduit\obj\Debug\IAMP_GestionProduit.vbproj.CopyComplete
+D:\Perso\Cours BTS\Cours\Développement\Albert\IAMP_GestionProduit\IAMP_GestionProduit\obj\Debug\IAMP_GestionProduit.exe
+D:\Perso\Cours BTS\Cours\Développement\Albert\IAMP_GestionProduit\IAMP_GestionProduit\obj\Debug\IAMP_GestionProduit.xml
+D:\Perso\Cours BTS\Cours\Développement\Albert\IAMP_GestionProduit\IAMP_GestionProduit\obj\Debug\IAMP_GestionProduit.pdb
+D:\Perso\Cours BTS\Cours\Développement\Albert\IAMP_GestionProduit\IAMP_GestionProduit\obj\Debug\IAMP_GestionProduit.FrmStat.resources
+D:\Perso\Cours BTS\Cours\Développement\Albert\IAMP_GestionProduit\IAMP_GestionProduit\obj\Debug\IAMP_GestionProduit.FrmCNP.resources

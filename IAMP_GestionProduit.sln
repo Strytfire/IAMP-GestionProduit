@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "IAMP_GestionProduit", "IAMP_GestionProduit\IAMP_GestionProduit.vbproj", "{C0536AEB-9672-4F9E-B392-C0FEEFF0E7E6}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "DLL_Marchand", "DLL_Marchand\DLL_Marchand.vbproj", "{1BBA4AB3-6EFA-4880-8039-2AC1C7B41A1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0536AEB-9672-4F9E-B392-C0FEEFF0E7E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0536AEB-9672-4F9E-B392-C0FEEFF0E7E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0536AEB-9672-4F9E-B392-C0FEEFF0E7E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0536AEB-9672-4F9E-B392-C0FEEFF0E7E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BBA4AB3-6EFA-4880-8039-2AC1C7B41A1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BBA4AB3-6EFA-4880-8039-2AC1C7B41A1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BBA4AB3-6EFA-4880-8039-2AC1C7B41A1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BBA4AB3-6EFA-4880-8039-2AC1C7B41A1D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D8624DDC-4C3F-4C4C-91CB-503CBCB39E6E}
+	EndGlobalSection
+EndGlobal
